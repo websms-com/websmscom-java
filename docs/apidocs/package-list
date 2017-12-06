@@ -1,0 +1,7 @@
+at.sms.business.sdk.client
+at.sms.business.sdk.client.impl
+at.sms.business.sdk.client.util
+at.sms.business.sdk.domain
+at.sms.business.sdk.exception
+at.sms.business.sdk.http
+at.sms.business.sdk.http.impl
