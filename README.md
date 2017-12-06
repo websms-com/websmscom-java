@@ -49,11 +49,14 @@ Installation Instructions
   explained at the tutorial-section (docs/howto/).
 
   
-Running BP-SDK
+Running Examples
 --------------
   
   The SDK is not a standalone java-application it needs at least a main-method for working. Examples
-  for running the BP-SDK can be found at docs/howto/.
+  for running the BP-SDK can be found at [/docs/howto/](docs/howto).
+
+  * [AsynchronousCallExample.java](/docs/howto/AsynchronousCallExample.java) ([Readme](/docs/howto/AsynchronousCallExample.readme.md))
+  * [SynchronousCallExample.java](/docs/howto/SynchronousCallExample.java) ([Readme](/docs/howto/SynchronousCallExample.readme.md))
   
 The Latest Version
 ------------------
