@@ -123,7 +123,6 @@ public class DefaultHttpDispatcher implements HttpDispatcher {
 			wr = new OutputStreamWriter(connection.getOutputStream(), Charset.forName("UTF-8"));
 
 			String sendThis = gson.toJson(requestRessource);
-			System.out.println("REQUEST " + sendThis);
 			wr.write(sendThis);
 			wr.flush();
 			// read the result from the server
