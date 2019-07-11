@@ -61,6 +61,7 @@ Running Examples
 The Latest Version
 ------------------
 
+   * Version 1.0.3: Removes output of request to System.out
    * Version 1.0.2: Fix problem with credentials when using constructor with readTimeout.
    * Version 1.0.1: Fix problem with non-UTF8 environments.
    * Version 1.0.0: Basic text- and binary-sms-sending.
